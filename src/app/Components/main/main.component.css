@@ -1,0 +1,30 @@
+:root{
+    --Color-Banner: #2522BA;
+    --Color-BG-Btn: #ffdc60;
+    --Color-BG-Dark: #27272E;
+    --Color-BG-Projects: #ecf2f6;
+    --Color-BG-Services: #f8f8f8;
+    --Color-Borders: #e3e6e9;
+    --Color-Hover-Dark: #303035;
+    --Color-Primary: #5956e9;
+    --Color-Secundary: #fff;
+    --Color-SubTitle: #c75c6f;
+    --Color-Text-Body: #525260;
+    --Color-Text-Btn: #0d6efd;
+}
+
+p{
+    display: none;
+}
+
+@media(min-width: 768px){
+
+    /* Menú - <main> */
+
+}
+
+@media(max-width: 767px){
+
+    /* Menú - <main> */
+
+}
